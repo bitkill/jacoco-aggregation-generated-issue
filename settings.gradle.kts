@@ -1,1 +1,3 @@
-rootProject.name = "reproducer-project"
+rootProject.name = "jacoco-aggregation-generated-issue"
+
+include (":service")
